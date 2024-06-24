@@ -8,7 +8,7 @@
 This project depict a sub anomaly detection system of a Smart Hybrid Quantum Task Scheduler, appear in the right half image of the system structure below    
 ![image-structure](https://github.com/Yagami11111/Tensorflow-Muti-Variate-Time-Series-Analysis/blob/main/pictures/structure.png)    
 
-The system focused on time series anomaly detection and forecasting to enhance the availability of quantum computers. It includes phases such as data loading, preprocessing, anomaly detection, and forecasting using various models. The goal is to create accurate models for detecting anomalies in IoT sensor data and forecasting future values, ultimately developing a forecasting-boosted anomaly detection system.       
+The objective is to leverage machine-learning methods to build a robust system for both forecasting and detecting anomalies from IoT sensor data that may affect the operation of quantum units.  
 
 Training and deploying process described in the graphs below.  
 ![image-structure](https://github.com/Yagami11111/Tensorflow-Muti-Variate-Time-Series-Analysis/blob/main/pictures/training.png)
