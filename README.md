@@ -42,7 +42,7 @@ Training and deploying process described in the graphs below.
 
 ## Data Description
 
-The dataset for this project was collected from IoT sensors affixed on Quantum computers in the laboratory. Data was aggregated in real-time in an time-series database
+The dataset for this project was collected from IoT sensors affixed on Quantum computers in the laboratory. Data was aggregated in real-time in an time-series database.
 
 ## Anomaly Detection
 
@@ -72,4 +72,4 @@ The performance of anomaly detection models was evaluated using Excess-Mass (EM)
 The forecasting models were evaluated on unseen test data using metrics such as MAE, MSE, RMSE, and MAPE.
 
 ## Technical report
-For details of the design, please check the technical report.
+For detailed design information, please refer to the technical report.
