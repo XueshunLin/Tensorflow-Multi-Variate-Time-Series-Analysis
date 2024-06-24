@@ -10,7 +10,7 @@ This project depict a sub-system of a Smart Hybrid Quantum Task Scheduler, appea
 
 This repository contains a TensorFlow project focused on time series anomaly detection and forecasting to enhance the availability of quantum computers. It includes phases such as data loading, preprocessing, anomaly detection, and forecasting using various models. The goal is to create accurate models for detecting anomalies in IoT sensor data and forecasting future values, ultimately developing a forecasting-boosted anomaly detection system. Training and deploying process described in the graphs below.  
 ![image-structure](https://github.com/Yagami11111/Tensorflow-Muti-Variate-Time-Series-Analysis/blob/main/pictures/training.png)    
-![image-structure](https://github.com/Yagami11111/Tensorflow-Muti-Variate-Time-Series-Analysis/blob/main/pictures/deploying.png)    
+![image-structure](https://github.com/Yagami11111/Tensorflow-Muti-Variate-Time-Series-Analysis/blob/main/pictures/deploying.jpg)    
 
 
 ## Directory Structure
@@ -28,6 +28,7 @@ This repository contains a TensorFlow project focused on time series anomaly det
   - `nbeats_forecast/`
 - `main.ipynb`: Jupyter notebook for the main analysis.
 - `naive_anomaly_detection.py`: Script for naive anomaly detection.
+- `pictures/`: Directory for pics of the project structure.
 - `processed_datasets/`: Directory for generated datasets during processing.
 - `README.md`: This README file.
 - `saved_models/`: Directory for saved models.
