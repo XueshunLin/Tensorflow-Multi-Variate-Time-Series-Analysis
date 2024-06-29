@@ -1,5 +1,5 @@
 # Time Series Anomaly Detection and Forecasting
-<a target="_blank" href="https://colab.research.google.com/github/XueshunLin/Tensorflow-Multi-Variate-Time-Series-Analysis/blob/main/main.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/xueshunlin/Tensorflow-Multi-Variate-Time-Series-Analysis/blob/main/main.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
